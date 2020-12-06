@@ -1,1 +1,3 @@
-this is my second program
+
+this is my second program.
+this is the first amendment in the git file no 2
